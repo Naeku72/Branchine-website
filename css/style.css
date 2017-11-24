@@ -1,4 +1,12 @@
 h1{
   color: blue;
-
+}
+h2{
+  color: #F31ADC;
+}
+strong{
+  font-style: italic;
+}
+em{
+  font-weight: bold;
 }
