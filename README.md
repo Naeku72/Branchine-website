@@ -2,3 +2,7 @@
 Website for branching practice
 
 This website was used to practice creating Branches on Github.
+Languages used; 
+  HTML
+  CSS
+  
